@@ -1,6 +1,6 @@
 # Node.js & Passport Authentication
 
-This is a user login, registration and access control app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
+This is a user login, registration, and access control app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
 
 ### Version: 1.0.0
 
