@@ -4,7 +4,7 @@ This is a user login, registration, and access control app using Node.js, Expres
 
 ### Version: 1.0.0
 
-### Usage
+### Quick Start
 
 ```sh
 $ npm install
@@ -21,3 +21,7 @@ $ npm run dev
 ### MongoDB
 
 Open "config/keys.js" and add your MongoDB URI, local or Atlas
+
+### License
+
+This project is licensed under the MIT License
